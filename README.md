@@ -1,4 +1,4 @@
-# Daily File Updated Report
+# Filter every updated files and with total size.
 
 This Markdown file contains a simple **daily report script** to list all files updated in `/var/www/html` for a specific date and calculate their total size.
 
